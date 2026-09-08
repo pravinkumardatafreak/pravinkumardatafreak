@@ -1,5 +1,5 @@
 # Hi there, I'm Pravin Kumar 👋 
-### Data Scientist | Quantitative Market Analytics & Time-Series Specialist
+### Data Scientist | Quantitative Market Analytics & Time-Series 
 
 Data Science professional transitioning from Civil Engineering with hands-on experience architecting end-to-end ML, time-series forecasting, and Gen AI pipelines—from automated data extraction to deployed, interactive web applications.
 
