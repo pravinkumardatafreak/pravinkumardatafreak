@@ -1,43 +1,69 @@
-# Hi there, I'm Pravin Kumar 👋 
-### Data Scientist | Quantitative Market Analytics & Time-Series 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Pravin+Kumar;Data+Scientist+%7C+AI+Engineer;Building+FinTech+%26+GeoAI+Pipelines" alt="Typing SVG" />
+</div>
 
-About Me
+<br/>
 
-I am a Data Scientist with a Civil Engineering background who transitioned into Data Science through a self-driven fascination with financial markets, quantitative analysis, and systematic decision-making.
-
-My journey began by dissecting market microstructure—analyzing time-series volatility, risk metrics, position sizing, macroeconomic events, and performance KPIs. Over time, my focus naturally shifted from simply interpreting data to engineering the data-driven systems that power decision-making.
-
-I learn by building, testing, breaking, and refining. My technical foundation was built through rigorous hands-on problem solving and end-to-end project execution:
-
-📈 Multi-Horizon Financial Forecasting: Architected CryptoCast, benchmarking 5 PyTorch neural architectures (PatchTST, LSTM, RevIN) across 5,000+ daily records to achieve a 2.06% 1-day MAPE under Walk-Forward Validation.
-
-
-🌍 Geospatial Risk Intelligence (GeoAI): Formulated Alveris-Geo-AI, integrating 13-band Sentinel-2 reflectance tensors, Copernicus DEM hydraulics, and InSAR ground subsidence into an automated Basel III Climate Value-at-Risk (VaR) haircut engine.
-
-
-🤖 Autonomous Multi-Agent RAG: Built ERIA, an autonomous 4-agent regulatory intelligence system on Groq LLaMA 3.3 70B featuring automated Critic LLM evaluation gates (≥ 8.5/10 grounding).
-
-
-🔬 Computer Vision & Histology: Segmented microvascular tissue across 5 organs in HuBMAP using a Swin Transformer vision architecture with Macenko stain normalization (0.6782 Dice).
-
-
-Core Competencies:
-Python • SQL • PyTorch • Scikit-Learn • FastAPI • Docker • Multi-Horizon Time Series • Deep Learning • NLP & Multi-Agent RAG • Computer Vision • Financial Risk Metrics
-
-🎯 Seeking Data Science opportunities where I can apply this engineering and quantitative mindset to solve high-impact FinTech, GeoAI, and production AI problems.
-
-
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/pravin-kumar-63b7bb3a6/) | pravinrajavel@gmail.com
+- 🔭 I’m currently working on **Productionizing GeoAI & Climate VaR haircut engines with Sentinel-2 tensors**
+- 🌱 Currently learning **High-throughput LLM inference, multi-agent evaluation gates, and advanced PyTorch architectures**
+- 👯 I’m looking to collaborate on **End-to-end Deep Learning, Time-Series forecasting, and Multi-Agent RAG systems**
+- 🤝 I’m looking for help with **Scaling distributed ML training pipelines and container orchestration**
+- 👨‍💻 All of my projects are available at [github.com/pravinkumardatafreak](https://github.com/pravinkumardatafreak)
+- 💬 Ask me about **Time-Series (PatchTST/LSTM), Geospatial AI, Swin-UNet, and PyTorch**
 
 ---
 
-### 🚀 Featured Repositories
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pravin-kumar-63b7bb3a6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pravinkumardatafreak&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pravinkumardatafreak&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinkumardatafreak&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 GitHub Contributions:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravinkumardatafreak&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🚀 Featured Projects
 
 | Project | Description | Core Tech Stack |
 | :--- | :--- | :--- |
-| 🧬 **[HuBMAP Tissue Segmentation](https://github.com/pravinkumardatafreak/HuBMAP-Tissue-Unit-Segmentation-SOTA)** | SOTA Medical Vision engine using Organ-Prompted Swin-TransUNet (0.6782 Dice) & Macenko Stain Normalization. | PyTorch, Swin-Transformer, OpenCV |
+| 🧬 **[HuBMAP Tissue Segmentation](https://github.com/pravinkumardatafreak/HuBMAP-Tissue-Unit-Segmentation-SOTA)** | Medical Vision engine using Organ-Prompted Swin-TransUNet (0.6782 Dice) & Macenko Stain Normalization. | PyTorch, Swin-Transformer, OpenCV |
 | 🔮 **[CryptoCast](https://github.com/pravinkumardatafreak/cryptocast)** | Multi-horizon BTC price forecasting using 4 deep learning models with Walk-Forward Validation. | PyTorch, Streamlit, Plotly |
-| 🎓 **[ERIA Education Analyzer](https://github.com/pravinkumardatafreak/ERIA-Education-Analyzer)** | UGC/AICTE policy PDF extraction and stakeholder risk analysis via LLMs. | Groq LLaMA 3.3 70B, Streamlit |
-| 🔥 **[Fitbit Calorie Analytics](https://github.com/pravinkumardatafreak/Fitbit-Calorie-Burn-Prediction-Workout-Pattern-Clustering-)** | Supervised calorie burn regression (R²=0.9979) + K-Means workout intensity segmentation. | Scikit-Learn, Pandas, PCA |
-| 📈 **[Nifty 50 Stock Analysis](https://github.com/pravinkumardatafreak/nifty-50-stock-analysis)** | Modular SQL + Pandas pipeline with automated Gemini 2.5 Flash market commentary. | SQLite, SQLAlchemy, Gemini API |
+| 🎓 **[ERIA Education Analyzer](https://github.com/pravinkumardatafreak/ERIA-Education-Analyzer)** | UGC/AICTE policyAlchemy, Gemini API |
 | 🍿 **[IMDb Movie Recommender](https://github.com/pravinkumardatafreak/IMDb-Movie-Recommender)** | Sub-100ms content filtering over 5,000+ titles using vector similarity. | TF-IDF, Cosine KNN, Streamlit |
