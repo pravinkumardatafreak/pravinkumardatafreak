@@ -8,21 +8,18 @@
     Bridging high-dimensional tensor mathematics with scalable, production-grade inference pipelines.
   </p>
 
-  <!-- Connect Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/pravinkumar-rajavel" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Pravin_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:pravinrajavel@gmail.com">
-      <img src="https://img.shields.io/badge/Email-pravinrajavel@gmail.com-00B4D8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/pravinkumardatafreak?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-pravinkumardatafreak-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
-    </a>
-  </p>
-
+ <!-- Connect Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/pravinkumar-rajavel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pravin%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/pravinkumardatafreak" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pravinkumardatafreak-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:pravinrajavel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-pravinrajavel%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 </div>
 
 ---
